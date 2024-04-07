@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "490961977961",
+    "project_id": "netapp-62ae6",
+    "storage_bucket": "netapp-62ae6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490961977961:android:85e99df9fd04103cc7d8f8",
+        "android_client_info": {
+          "package_name": "com.apps.netapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPvWs_hMWfTVuD_9CpadfGnBHODr1--MA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
